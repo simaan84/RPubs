@@ -1,4 +1,6 @@
 ## ----warning=F,message=F-------------------------------------------------
+
+# This code was extracted from the Rmd file published at http://rpubs.com/simaan84/regime_switching
 library(knitr)
 library(kableExtra)
 library(dplyr)
